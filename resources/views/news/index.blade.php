@@ -9,6 +9,7 @@
             Latest News
           </h3>
 
+            <!-- loops through all news -->
             @foreach($allnews as $news)
 
               <div class="blog-post">
